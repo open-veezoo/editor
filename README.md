@@ -2,7 +2,7 @@
 
 ## Scope
 
-Implement an Online Editor using ReactJS that supports the following functionalities:
+Implement an Online Code Editor using ReactJS (with a left sidebar containing files and directories) that supports the following functionalities:
 
 - View files in a directory-like tree view in a sidebar
 - Click on a file in the sidebar to open it in the editor
