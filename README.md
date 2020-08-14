@@ -9,6 +9,10 @@ Implement an Online Editor using ReactJS that supports the following functionali
 - Save button to save modified file content
 - Delete button to delete open file
 
+You are welcome to use libraries and frameworks to help you get the job done. This assignment shouldn't take you more than a few hours.
+
+Give it your best shot!
+
 ## API Definition
 
 Check https://app.swaggerhub.com/apis/john-veezoo/Online-Editor/1.0.0
