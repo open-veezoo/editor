@@ -30,3 +30,7 @@ DELETE /files/{fileId}
 Access the API over https://my-json-server.typicode.com/open-veezoo/editor.
 
 Example: https://my-json-server.typicode.com/open-veezoo/editor/filetree
+
+## Submission
+
+Please send your code as a Github repo link to jp@veezoo.com with the Subject: 'Veezoo Assignment: YOUR_NAME'
